@@ -134,6 +134,3 @@ class JSONVacancyManager(AbstractVacancyManager):
         except FileNotFoundError:
             pass
 
-    def clear(self):
-        self.vacancies = []
-        self.save()

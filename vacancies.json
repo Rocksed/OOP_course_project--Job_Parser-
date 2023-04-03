@@ -1,1 +1,745 @@
-[]
+[
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0434\u043b\u044f \u0441\u0435\u043c\u044c\u0438",
+        "url": "https://hh.ru/vacancy/78809690",
+        "salary": {
+            "from": 65000,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u043a\u0443\u0440\u044c\u0435\u0440 \u043d\u0430 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438",
+        "url": "https://hh.ru/vacancy/78792384",
+        "salary": {
+            "from": 125000,
+            "to": 165000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u043a\u0443\u0440\u044c\u0435\u0440 \u043d\u0430 \u0441\u043b\u0443\u0436\u0435\u0431\u043d\u043e\u043c \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435 (Ford Transit)",
+        "url": "https://hh.ru/vacancy/78792365",
+        "salary": {
+            "from": 120000,
+            "to": 160000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \u0412",
+        "url": "https://hh.ru/vacancy/78803099",
+        "salary": {
+            "from": 95000,
+            "to": 115000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f",
+        "url": "https://hh.ru/vacancy/78837983",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "KZT",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \u0412",
+        "url": "https://hh.ru/vacancy/78182788",
+        "salary": {
+            "from": 65000,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u041b\u0438\u0447\u043d\u044b\u0439 \u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f",
+        "url": "https://hh.ru/vacancy/78841521",
+        "salary": {
+            "from": 56000,
+            "to": 62000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "title": "\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f",
+        "url": "https://hh.ru/vacancy/78847811",
+        "salary": null,
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u0437\u0430\u043f\u0440\u0430\u0432\u0449\u0438\u043a",
+        "url": "https://hh.ru/vacancy/78858901",
+        "salary": {
+            "from": 60000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u043a\u0443\u0440\u044c\u0435\u0440 \u043d\u0430 \u0441\u043b\u0443\u0436\u0435\u0431\u043d\u043e\u043c \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435 Ford Transit",
+        "url": "https://hh.ru/vacancy/78541709",
+        "salary": {
+            "from": 60000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u041b\u0438\u0447\u043d\u044b\u0439 \u0441\u0435\u043c\u0435\u0439\u043d\u044b\u0439 \u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c",
+        "url": "https://hh.ru/vacancy/76651826",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439",
+        "url": "https://hh.ru/vacancy/78824690",
+        "salary": {
+            "from": null,
+            "to": 50000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c",
+        "url": "https://hh.ru/vacancy/78803238",
+        "salary": {
+            "from": 100000,
+            "to": 165000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 B",
+        "url": "https://hh.ru/vacancy/78806379",
+        "salary": {
+            "from": 56200,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c",
+        "url": "https://hh.ru/vacancy/78812458",
+        "salary": {
+            "from": 33000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u043f\u0435\u0440\u0435\u0433\u043e\u043d\u0449\u0438\u043a \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u0445 \u0441\u0440\u0435\u0434\u0441\u0442\u0432 \u043a\u0430\u0440\u0448\u0435\u0440\u0438\u043d\u0433\u0430 \u043d\u0430 \u0421\u0422\u041e",
+        "url": "https://hh.ru/vacancy/78620397",
+        "salary": {
+            "from": null,
+            "to": 45000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "title": "\u041b\u0438\u0447\u043d\u044b\u0439 \u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c",
+        "url": "https://hh.ru/vacancy/78288178",
+        "salary": {
+            "from": 100000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0448\u0442\u0430\u0442\u043d\u044b\u0439 \u043d\u0430 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438",
+        "url": "https://hh.ru/vacancy/78824070",
+        "salary": {
+            "from": null,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c",
+        "url": "https://hh.ru/vacancy/78698097",
+        "salary": {
+            "from": 450000,
+            "to": 500000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u043a\u0443\u0440\u044c\u0435\u0440 \u043d\u0430 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438",
+        "url": "https://hh.ru/vacancy/78792357",
+        "salary": {
+            "from": 130000,
+            "to": 185000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c",
+        "url": "https://hh.ru/vacancy/78852316",
+        "salary": {
+            "from": 76000,
+            "to": 76000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "title": "\u041b\u0438\u0447\u043d\u044b\u0439 \u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c",
+        "url": "https://hh.ru/vacancy/78854758",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \"B\"",
+        "url": "https://hh.ru/vacancy/78724011",
+        "salary": {
+            "from": 35000,
+            "to": 45000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043d\u0430 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438",
+        "url": "https://hh.ru/vacancy/78833417",
+        "salary": {
+            "from": 70000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0442\u043e\u0440 \u043d\u0430 \u043b\u0438\u0447\u043d\u043e\u043c \u043b\u0435\u0433\u043a\u043e\u0432\u043e\u043c \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435",
+        "url": "https://hh.ru/vacancy/78711770",
+        "salary": {
+            "from": 80000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439",
+        "url": "https://hh.ru/vacancy/78854061",
+        "salary": {
+            "from": 42000,
+            "to": 42000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0442\u043e\u0440 (\u043a\u0443\u0440\u044c\u0435\u0440) \u043d\u0430 \u0441\u043b\u0443\u0436\u0435\u0431\u043d\u043e\u043c \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435",
+        "url": "https://hh.ru/vacancy/78262445",
+        "salary": {
+            "from": 52000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c",
+        "url": "https://hh.ru/vacancy/78536549",
+        "salary": {
+            "from": 40000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \u0412",
+        "url": "https://hh.ru/vacancy/78827680",
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \u0412 (\u0413\u0430\u0437\u0435\u043b\u044c)",
+        "url": "https://hh.ru/vacancy/78816394",
+        "salary": {
+            "from": 40000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u043a\u0443\u0440\u044c\u0435\u0440 \u043d\u0430 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 Ford Transit",
+        "url": "https://hh.ru/vacancy/78523902",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043b\u0435\u0433\u043a\u043e\u0432\u043e\u0433\u043e \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044f",
+        "url": "https://hh.ru/vacancy/78834256",
+        "salary": {
+            "from": 106000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044f \u043b\u0435\u0433\u043a\u043e\u0432\u043e\u0433\u043e",
+        "url": "https://hh.ru/vacancy/78831535",
+        "salary": {
+            "from": 95000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044f",
+        "url": "https://hh.ru/vacancy/78844798",
+        "salary": {
+            "from": 30000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u041b\u0438\u0447\u043d\u044b\u0439 \u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c",
+        "url": "https://hh.ru/vacancy/78849033",
+        "salary": {
+            "from": 45000,
+            "to": 50000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f",
+        "url": "https://hh.ru/vacancy/78719049",
+        "salary": {
+            "from": 200000,
+            "to": 250000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c",
+        "url": "https://hh.ru/vacancy/53178871",
+        "salary": {
+            "from": 70000,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \u0412",
+        "url": "https://hh.ru/vacancy/78564451",
+        "salary": {
+            "from": 65000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f",
+        "url": "https://hh.ru/vacancy/78743633",
+        "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \u0412",
+        "url": "https://hh.ru/vacancy/78817745",
+        "salary": {
+            "from": 70000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044f",
+        "url": "https://hh.ru/vacancy/78841171",
+        "salary": {
+            "from": 80000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043b\u0435\u0433\u043a\u043e\u0432\u043e\u0433\u043e \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044f",
+        "url": "https://hh.ru/vacancy/78836624",
+        "salary": {
+            "from": 33000,
+            "to": 45000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044f \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \u0412",
+        "url": "https://hh.ru/vacancy/78366228",
+        "salary": {
+            "from": null,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043d\u0430 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 (Ford Transit)",
+        "url": "https://hh.ru/vacancy/78398408",
+        "salary": {
+            "from": 50000,
+            "to": 60000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043d\u0430 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438",
+        "url": "https://hh.ru/vacancy/77560712",
+        "salary": {
+            "from": 120000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043d\u0430 \u043b\u0438\u0447\u043d\u043e\u043c \u043b\u0435\u0433\u043a\u043e\u0432\u043e\u043c \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435 ( \u0427\u0430\u0440\u0434\u0436\u0435\u0440)",
+        "url": "https://hh.ru/vacancy/78821021",
+        "salary": {
+            "from": 60000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0442\u043e\u0440",
+        "url": "https://hh.ru/vacancy/78454677",
+        "salary": {
+            "from": 60000,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u043a\u0443\u0440\u044c\u0435\u0440 \u043d\u0430 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438",
+        "url": "https://hh.ru/vacancy/78518515",
+        "salary": {
+            "from": 50000,
+            "to": 75000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0412 \u043d\u0430 \u0413\u0430\u0437\u0435\u043b\u044c",
+        "url": "https://hh.ru/vacancy/78324249",
+        "salary": {
+            "from": 60000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c",
+        "url": "https://hh.ru/vacancy/78794794",
+        "salary": {
+            "from": 40000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043d\u0430 \u0423\u0410\u0417",
+        "url": "https://hh.ru/vacancy/78835336",
+        "salary": {
+            "from": 38000,
+            "to": 50000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0442\u043e\u0440 \u0433\u0440\u0443\u0437\u043e\u0432\u043e\u0433\u043e \u0430\u0432\u0442\u043e\u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u0430",
+        "url": "https://hh.ru/vacancy/78768429",
+        "salary": {
+            "from": 120000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043e\u0444\u0438\u0441\u043d\u044b\u0439",
+        "url": "https://hh.ru/vacancy/78808006",
+        "salary": {
+            "from": 35000,
+            "to": 40000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043b\u0435\u0433\u043a\u043e\u0432\u043e\u0433\u043e \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044f \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \u0412",
+        "url": "https://hh.ru/vacancy/78692819",
+        "salary": {
+            "from": 80000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043d\u0430 \u043b\u0438\u0447\u043d\u043e\u043c \u043b\u0435\u0433\u043a\u043e\u0432\u043e\u043c \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435 (\u0427\u0430\u0440\u0434\u0436\u0435\u0440)",
+        "url": "https://hh.ru/vacancy/78816840",
+        "salary": {
+            "from": 65000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0442\u043e\u0440",
+        "url": "https://hh.ru/vacancy/78852557",
+        "salary": {
+            "from": 40000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0442\u043e\u0440 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \u0412 \u0438 \u0412\u0421 (\u043d\u0430 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438)",
+        "url": "https://hh.ru/vacancy/78547484",
+        "salary": {
+            "from": 49700,
+            "to": 93000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u041b\u0438\u0447\u043d\u044b\u0439 \u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c",
+        "url": "https://hh.ru/vacancy/78770163",
+        "salary": {
+            "from": 45000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u043a\u0443\u0440\u044c\u0435\u0440 \u043d\u0430 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 Ford Transit",
+        "url": "https://hh.ru/vacancy/78523709",
+        "salary": {
+            "from": 75000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 B",
+        "url": "https://hh.ru/vacancy/78805875",
+        "salary": {
+            "from": 28000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u043a\u0443\u0440\u044c\u0435\u0440",
+        "url": "https://hh.ru/vacancy/78856281",
+        "salary": {
+            "from": 54460,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0441 \u043b\u0438\u0447\u043d\u044b\u043c \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435\u043c",
+        "url": "https://hh.ru/vacancy/78508636",
+        "salary": {
+            "from": null,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0442\u043e\u0440 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \u0412",
+        "url": "https://hh.ru/vacancy/78657360",
+        "salary": {
+            "from": 82000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u041b\u0438\u0447\u043d\u044b\u0439 \u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c",
+        "url": "https://hh.ru/vacancy/78073843",
+        "salary": {
+            "from": 50000,
+            "to": 50000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043e\u0444\u0438\u0441\u043d\u044b\u0439",
+        "url": "https://hh.ru/vacancy/78838384",
+        "salary": {
+            "from": 29300,
+            "to": 29300,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u041b\u0438\u0447\u043d\u044b\u0439 \u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0433\u0435\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0430",
+        "url": "https://hh.ru/vacancy/77027589",
+        "salary": {
+            "from": 105000,
+            "to": 105000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "title": "\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f",
+        "url": "https://hh.ru/vacancy/78546828",
+        "salary": {
+            "from": 37000,
+            "to": 50000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043d\u0430 \u043b\u0435\u0433\u043a\u043e\u0432\u043e\u0439 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438",
+        "url": "https://hh.ru/vacancy/78330538",
+        "salary": {
+            "from": 40000,
+            "to": 60000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null
+    }
+]
